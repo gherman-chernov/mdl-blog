@@ -1,0 +1,25 @@
+{
+  "name": "mdl-template-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gherman-chernov/mdl-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gherman-chernov/mdl-blog/issues"
+  },
+  "homepage": "https://github.com/gherman-chernov/mdl-blog#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
